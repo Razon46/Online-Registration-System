@@ -1,0 +1,2 @@
+# Online-Registration-System
+This is the registration system of our previous project typing speed game that we've developed using pygame libraries. In this project we've developed using mainky django. html,css. This is the Registration system of any site. That means if anyone want to use our speed test then the user should be registered before and log in for going in homepage of that site. This has features like username and password.  . Previous project link : https://github.com/Razon46/test
